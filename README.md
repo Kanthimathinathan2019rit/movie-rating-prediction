@@ -6,4 +6,5 @@ work.
 # AZURE SERVICES USED
 Azure machine learning studio is used to create, train and evaluate the machine learning model. In Azure machine learning portal, select or import a dataset for the model. After uploading the dataset as CSV file, then select the blocks for the model and then connect and visualize the blocks. The final output will be visualized in the evaluated model
 # MOVIE RATING PREDICTION MACHINE LEARNING MODEL
-![](images/filename%20dataset.png)
+![module](https://user-images.githubusercontent.com/89577329/152141661-98e0c29c-7367-45b0-90d7-ca41c9f25ce1.PNG)
+
