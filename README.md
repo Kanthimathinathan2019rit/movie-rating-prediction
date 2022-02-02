@@ -29,10 +29,11 @@ Azure machine learning studio is used to create, train and evaluate the machine 
 Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas.
 
 I have used the below modules for my experiment in the given order:
- DATA SET:
- Data set required for experiment is added
- IMDB MOVIE TITLES:
- This data set consists of movie id and movie names.
- Editing Metadata:
- Used to change data type of fields, etc.
+ # DATA SET:
+       Data set required for experiment is added
+       
+ # IMDB MOVIE TITLES:
+       This data set consists of movie id and movie names.
+ # Editing Metadata:
+       Used to change data type of fields, etc.
  
