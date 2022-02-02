@@ -8,3 +8,7 @@ Azure machine learning studio is used to create, train and evaluate the machine 
 # MOVIE RATING PREDICTION MACHINE LEARNING MODEL
 ![module](https://user-images.githubusercontent.com/89577329/152141661-98e0c29c-7367-45b0-90d7-ca41c9f25ce1.PNG)
 
+# MOVIE RATING PREDICTION DATASET
+![dataset](https://user-images.githubusercontent.com/89577329/152141894-1e6b08ca-3066-4223-b346-0f6446d36b83.PNG)
+
+
