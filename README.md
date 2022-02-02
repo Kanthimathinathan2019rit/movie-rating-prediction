@@ -24,3 +24,8 @@ Azure machine learning studio is used to create, train and evaluate the machine 
 
 # EVALUATED MODEL FROM RATED PREDICTION
 ![evaluated model from rated prediction](https://user-images.githubusercontent.com/89577329/152142759-eeb99db4-f0dd-4e4a-9a86-475742c7f8ba.PNG)
+
+# DETAILED DESCRIPTION
+Create Project/Experiment and import HR data set from local file system. After creating experiment, we need to drag and drop the required modules in canvas.
+
+I have used the below modules for my experiment in the given order:
