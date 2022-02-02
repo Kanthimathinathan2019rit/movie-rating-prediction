@@ -49,7 +49,8 @@ I have used the below modules for my experiment in the given order:
  # Score matchbox recommender:
        It scores a dataset using matchbox recommender.
  # Evaluate recommender:
-       this is the final dataset it evaluates and gives the accuracy values,and this evaluate recommender is used to evaluates a recommender model.
+       this is the final dataset it evaluates and gives the accuracy values 
+       this evaluate recommender is used to evaluates a recommender model.
        
  After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model.      
  
