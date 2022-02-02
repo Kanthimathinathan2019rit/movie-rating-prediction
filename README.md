@@ -36,4 +36,20 @@ I have used the below modules for my experiment in the given order:
        This data set consists of movie id and movie names.
  # Editing Metadata:
        Used to change data type of fields, etc.
+ # Join data:
+       Used to join the above two dataset.
+ # Select column in dataset:
+       Select columns to inclue or exclude from a dataset in an operation.formerly known as project columns.
+ # Remove duplicate rows:
+       Remove the duplicate rows from a dataset.
+ # Split data:
+       split the rows of a dataset into two distinct areas,here the dataset is splitted into Train and Score matchbox recommender.
+ # Train matchbox recommender:
+       Train a bayesian recommender using the matchbox algorithm.
+ # Score matchbox recommender:
+       It scores a dataset using matchbox recommender.
+ # Evaluate recommender:
+       this is the final dataset it evaluates and gives the accuracy values,and this evaluate recommender is used to evaluates a recommender model.
+       
+ After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model.      
  
