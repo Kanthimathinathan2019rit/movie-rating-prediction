@@ -24,4 +24,3 @@ Azure machine learning studio is used to create, train and evaluate the machine 
 
 # EVALUATED MODEL FROM RATED PREDICTION
 ![evaluated model from rated prediction](https://user-images.githubusercontent.com/89577329/152142759-eeb99db4-f0dd-4e4a-9a86-475742c7f8ba.PNG)
-
